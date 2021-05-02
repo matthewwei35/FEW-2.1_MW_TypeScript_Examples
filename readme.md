@@ -60,6 +60,22 @@ const snack2: [sting, name] = ['Avocado', 234]
 const snack3: [sting, name] = ['Banana', 105]
 ```
 
+example-6.ts
+
+# Typescript 7
+
+Any time you have a set of fixed values you can represent these with an enum. 
+
+When would you use this: 
+
+- Units - standard, imperial, metric
+- Gender - Male, Female, Non-Binary
+- Direction - North, South, East, West
+
+Challenge: Write an enum for a card type. Make the example code work by adding an Enum for Suit and defining `ace` of spades!
+
+example-7.ts
+
 
 
 
