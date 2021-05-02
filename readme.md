@@ -38,3 +38,15 @@ The sample wants to build two arrays, one with random numbers and the other with
 
 example-4.ts
 
+# Typescript 5
+
+This example has three tuples. These are really arrays with mixed types. 
+
+Since the code is typescript you need to add the types. 
+
+The function needs parameters type, and return type. 
+
+example-5.ts
+
+
+
