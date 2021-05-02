@@ -48,5 +48,19 @@ The function needs parameters type, and return type.
 
 example-5.ts
 
+# Typescript-6
+
+You can define a type and apply that type. 
+
+Here the first line defines a type Snack that is a tuple of `[sting, name]`. This is shorter than: 
+
+```
+const snack1: [sting, name] = ['Cookies', 142]
+const snack2: [sting, name] = ['Avocado', 234]
+const snack3: [sting, name] = ['Banana', 105]
+```
+
+
+
 
 
