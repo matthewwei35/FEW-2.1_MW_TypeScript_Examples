@@ -29,3 +29,12 @@ Your job is to add the types.
 - Add types for the variables inside the function
 
 example-3.ts
+
+# Typescript 4
+
+While typescript will infer a type. It is best practice most often to explicity type thing. 
+
+The sample wants to build two arrays, one with random numbers and the other with random characters. Since this is Typescript you need to add the types.
+
+example-4.ts
+
