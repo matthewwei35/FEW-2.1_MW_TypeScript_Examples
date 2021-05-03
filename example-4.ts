@@ -1,3 +1,9 @@
+
+// Set the types here. There are two arrays below
+// The first should be type number
+// The second should type string
+// Add the types for the function and other variables
+
 const nums = []
 const chars = []
 
@@ -16,4 +22,8 @@ for (let i = 0; i < 6; i += 1) {
 
 console.log(nums)
 console.log(chars)
+
+
+// Compile the code and check what type script says: 
+// tsc example-4.ts
 

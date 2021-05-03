@@ -1,4 +1,8 @@
 
+// Snack type defines a tuple type. Use for 
+// all the tuples below. 
+// Set the other types. 
+
 type Snack = [string, number]
 
 const snack1 = ['Cookies', 142]
@@ -12,3 +16,6 @@ function displayNutrition(food) {
 console.log(displayNutrition(snack1))
 console.log(displayNutrition(snack2))
 console.log(displayNutrition(snack3))
+
+// Compile the code and check what type script says: 
+// tsc example-6.ts
